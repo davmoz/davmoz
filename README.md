@@ -58,7 +58,7 @@
   <br><sub>Linux</sub>
 </td>
 <td align="center" width="96">
-  <img src="https://img.shields.io/badge/LoRaWAN-00DC82?style=for-the-badge&logo=thethingsnetwork&logoColor=white" height="48" alt="LoRaWAN" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/LoRaWAN_Logo.svg" width="48" height="48" alt="LoRaWAN" />
   <br><sub>LoRaWAN</sub>
 </td>
 </tr>
