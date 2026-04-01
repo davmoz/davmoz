@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a2e1a,100:00ff84&height=200&section=header&text=David%20Mozart&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IoT%20%26%20Energy%20Engineer%20@%20Srcful%20Energy%20%E2%9A%A1&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a2e1a,100:00ff84&height=200&section=header&text=David%20Mozart&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IoT%20and%20Energy%20Engineer%20@%20Srcful%20Energy%20%E2%9A%A1&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00ff84&center=true&vCenter=true&repeat=true&width=500&lines=Building+the+decentralized+energy+grid;Firmware+→+Gateway+→+API+→+Cloud;From+sensor+to+dashboard+⚡)](https://git.io/typing-svg)
@@ -58,7 +58,7 @@
   <br><sub>Linux</sub>
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/thethingsnetwork/00DC82" width="48" height="48" alt="LoRaWAN" />
+  <img src="https://img.shields.io/badge/LoRaWAN-00DC82?style=for-the-badge&logo=thethingsnetwork&logoColor=white" height="48" alt="LoRaWAN" />
   <br><sub>LoRaWAN</sub>
 </td>
 </tr>
